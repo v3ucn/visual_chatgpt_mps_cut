@@ -15,3 +15,5 @@ python3 visual_chatgpt_mps_cut.py
 ```
 
 访问 http://localhost:7860
+
+![](./test1.png)
